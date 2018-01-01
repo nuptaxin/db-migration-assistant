@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+	<connection>
+		<ip>192.168.78.164</ip>
+		<port>1521</port>
+		<instance>orcl</instance>
+		<name>TEST</name>
+		<password>TEST</password>
+		<lastLoginTime>2017-12-13 14:02:05</lastLoginTime>
+		<isDefault>true</isDefault>
+	</connection>
+	<connection>
+		<ip>192.168.78.164</ip>
+		<port>1521</port>
+		<instance>orcl</instance>
+		<name>NWDY</name>
+		<password>NWDY</password>
+		<lastLoginTime>2017-12-13 14:02:05</lastLoginTime>
+	</connection>
+</connections>
